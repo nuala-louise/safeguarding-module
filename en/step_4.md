@@ -2,7 +2,7 @@
 
 Every person at the club must be aware of the code of behaviour and follow these expectations. Our code of behaviour document is available at [rpf.io/code-of-behaviour](http://rpf.io/code-of-behaviour){:target='_blank'}
 
-<embed src="images/Raspberry_Pi_Foundation-safeguarding-code-of-behaviour.pdf" width="790" height="500" 
+<embed src="images/task.png" width="790" height="500" 
  type="application/pdf">
 <br>
 ### Breaking the code of behaviour
